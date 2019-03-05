@@ -1,7 +1,7 @@
 ###### Version 0.0316.3A
 Installation: Open the file (you will have to enter your name, it's a script runner safety kind of, it will make sure to not miss any frames or steps.) and after that the file will Qs for Discord takes about 30 second, and then you can go into Discord settings and it will have it's own bar called **DCounter**.
 
-This is a mod created that can mute specific types of sound so you can't hear others keyboard or you can mute the specific sounds on your mic. It will mute the specific sounds even when you're talking so it only hears the voice.
+This is a mod that mutes every other sound in your mic even when you're talking so it only takes in your voice, so if you're typing on your keyboard while talking the other person you're talking to is not going to hear the keyboard but her you.
 
 It works better with better microphones. You can disable all of it with a button, and mute/unmute specific sounds.
 This is still in **_ALPHA_** but i've only added features that works fine, so you won't experience any bugs.
