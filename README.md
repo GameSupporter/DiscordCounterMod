@@ -25,7 +25,7 @@ It will go into Beta soon, sometime in the end of Mars and will have more featur
      Cherry MX Speed  
 
 
-- Footsteps sound (Not if you're stomping)
+- Footsteps sound (Not if you're stomping) 
 - Your headset or speaker sound (Not if extremely loud or any super low pitch sound)
 - People talking in background sound
-- Moving mic sound
+- Moving mic sound *NEW*
